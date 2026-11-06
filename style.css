@@ -1,0 +1,62 @@
+h1{
+    color: #062630;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    gap: 5px;
+}
+#ul1{
+    list-style: none;
+}
+.div1{
+    width: 40px;
+    height: 40px;
+    color: #062630;
+    border: 2px #062630 solid;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    
+    
+}
+.p1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+#f1{
+    background-image: url(images/backgroundcarre.svg);
+    background-color: rgb(250, 245, 243);
+    background-image: url(images/backgroundbluee.svg);
+    
+    
+}
+a{
+    
+    box-sizing: border-box;
+    background-color: rgb(255, 245, 239);
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Times, serif;
+    font-weight: bold;
+}
+.b11{
+    padding-left: 90px;
+}
+#m1{
+    background-image: url(images/bleu.png);
+}
+#bt1{
+    margin-left: 600px;
+}
+footer{
+    background-image: url(images/footer\ img.svg);
+    background-color: rgb(6, 38, 48);
+}
+#pt1{
+    margin-left: 550px;
+    padding-top: 50px;
+}
+span{
+    background-image: url(images/pattern-circle.png);
+}
